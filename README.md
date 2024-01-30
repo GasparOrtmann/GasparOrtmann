@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaspar</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate system administrator from Argentina</h3>
 
-- 🔭 I’m currently working on **freelance projects**
+- 🔭 I’m currently working on **IT Support**
 
-- 🌱 I’m currently learning **contemporary libraries and frameworks**
+- 🌱 I’m currently learning **sysadmin and cybersecurity skills**
 
 - 👯 I’m looking to collaborate on **any work team with the desire to learn**
 
